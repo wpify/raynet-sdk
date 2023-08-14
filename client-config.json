@@ -1,0 +1,6 @@
+{
+  "invokerPackage": "RaynetApiClient",
+  "packagePath": ".",
+  "gitUserId":  "wpify",
+  "gitRepoId":  "raynet-api-php-sdk"
+}

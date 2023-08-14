@@ -1,0 +1,2 @@
+#!/bin/bash
+openapi-generator generate -i ./openapi.json -g php -c client-config.json --skip-validate-spec
